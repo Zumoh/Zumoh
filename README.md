@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harris! <br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
+<h1>Hi, I'm Harris <br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
 
 #
 I'm a dedicated cybersecurity enthusiast committed to safeguarding digital landscapes. My journey is driven by a relentless pursuit of knowledge and excellence. Through diverse educational paths and hands-on experiences, I've built a robust skill set spanning fundamental security principles to advanced threat detection and response.
@@ -46,6 +46,18 @@ With a passion for cybersecurity developed through diverse educational paths and
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
+## 🛠️ Tools
+
+### 🛜 Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### 👁️💻 SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 <h2> 📰 Showcases:</h2>
 
@@ -54,11 +66,14 @@ With a passion for cybersecurity developed through diverse educational paths and
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HarrisZumoh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarrisZumoh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HarrisZumoh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />](kzumoh7@gmail.com)
+
 
 [instagram]: https://www.instagram.com/zumoh3/
 [linkedin]: https://linkedin.com/in/harris-zumoh-1b1798127
+[Email]: kzumoh7@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
