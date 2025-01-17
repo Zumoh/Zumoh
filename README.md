@@ -1,5 +1,5 @@
 <h1>Hi, I'm Harris <br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
-
+  
 #
 I'm a dedicated cybersecurity enthusiast committed to safeguarding digital landscapes. My journey is driven by a relentless pursuit of knowledge and excellence. Through diverse educational paths and hands-on experiences, I've built a robust skill set spanning fundamental security principles to advanced threat detection and response.
 
@@ -8,6 +8,7 @@ I continually hone my skills through practical projects, real-world simulations,
 ## Objective
 
 With a passion for cybersecurity developed through diverse educational paths and hands-on experiences, my aim is to showcase practical projects that highlight my robust skills in threat detection and response. My journey has led me to seek a transition into the cybersecurity field, specifically targeting a role in a Security Operations Domain.
+
 
 <h2> 📄 Certifications</h2>
 
@@ -59,7 +60,7 @@ With a passion for cybersecurity developed through diverse educational paths and
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-<h2> 📰 Showcases:</h2>
+<h2> 📰 Blogs:</h2>
 
 <a href="https://medium.com/@kzumoh7">Medium Blogs</a>
 
@@ -68,12 +69,13 @@ With a passion for cybersecurity developed through diverse educational paths and
 
 [<img align="left" alt="HarrisZumoh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HarrisZumoh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="HarrisZumoh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />](kzumoh7@gmail.com)
+[<img src="https://img.shields.io/badge/-Email-777BB4?&style=for-the-badge&logo=email&logoColor=white" />](mailto:kzumoh7@gmail.com)
 
 
-[instagram]: https://www.instagram.com/zumoh3/
 [linkedin]: https://linkedin.com/in/harris-zumoh-1b1798127
-[Email]: kzumoh7@gmail.com
+[instagram]: https://www.instagram.com/zumoh3/
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
