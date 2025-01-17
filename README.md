@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I am Harris 👋
+<a href="https://linkedin.com/harris-zumoh-1b1798127"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **Zumoh/Zumoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
