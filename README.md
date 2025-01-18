@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Harris Zumoh<br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
-  
+
 #
 I'm a dedicated cybersecurity enthusiast committed to safeguarding digital landscapes. My journey is driven by a relentless pursuit of knowledge and excellence. Through diverse educational paths and hands-on experiences, I've built a robust skill set spanning fundamental security principles to advanced threat detection and response.
 
