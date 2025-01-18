@@ -47,10 +47,6 @@ With a passion for cybersecurity developed through diverse educational paths and
 - <b>Data Exfiltration</b>
   - <a href="https://github.com/Zumoh/Data-Exfiltration-Lab/tree/main">Data-Exfiltration</a>
  
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 ## 🛠️ Tools
 
