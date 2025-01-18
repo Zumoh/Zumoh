@@ -1,6 +1,14 @@
 <h1>Hi there, I'm Harris Zumoh<br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
 
 #
+
+<div>
+  <a href="https://medium.com/@kzumoh7">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+##
 I'm a dedicated cybersecurity enthusiast committed to safeguarding digital landscapes. My journey is driven by a relentless pursuit of knowledge and excellence. Through diverse educational paths and hands-on experiences, I've built a robust skill set spanning fundamental security principles to advanced threat detection and response.
 
 I continually hone my skills through practical projects, real-world simulations, and staying current with industry trends. This commitment ensures I'm always ready to tackle new challenges and emerging threats in the ever-evolving field of cybersecurity.
@@ -56,11 +64,6 @@ With a passion for cybersecurity developed through diverse educational paths and
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-<h2> 📰 Blogs:</h2>
-
-<a href="https://medium.com/@kzumoh7">Medium Blogs</a>
-
 
 <h2> 🤳 Connect with me:</h2>
 
