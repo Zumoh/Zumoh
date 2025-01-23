@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Harris Zumoh<br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
+<h1> Hi there, I'm Harris Zumoh<br/><a href="https://www.linkedin.com/in/harris-zumoh/">Cybersecurity Professional</a>
 
 #
 
