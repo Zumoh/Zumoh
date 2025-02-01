@@ -53,6 +53,9 @@ With a passion for cybersecurity developed through diverse educational paths and
 - <b>Malware-Based Attack</b>  
   - <a href="https://github.com/Zumoh/Malicious_File-Script_Download/tree/main">Malicious File/Script Download Attempt</a>
 
+- <b>Endpoint Forensics</b>
+  - <a href="https://github.com/Zumoh/Brute_Force/tree/main">Memory Analysis</a>
+
 ## 🛠️ Tools
 
 ### 🛜 Network
