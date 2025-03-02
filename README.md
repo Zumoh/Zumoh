@@ -26,7 +26,7 @@ With a passion for cybersecurity developed through diverse educational paths and
 </a>
 <div>
 <a href="https://www.credly.com/badges/32eb1caf-737b-4a00-b7f0-2788dfd58b21/public_url">
-  <img src="https://img.shields.io/badge/-BTL1-0000FF?&style=for-the-badge&logo=SBT&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BTL1-0000FF?&style=for-the-badge&logo=blue-team-level-1&logoColor=white" />
 </a>
 <a href="https://cpe.isc2.org/digitalcert">
   <img src="https://img.shields.io/badge/ISC2%20CC-%23FF0000%2C%23FF7F00%2C%23FFFF00%2C%2300FF00%2C%2300FFFF%2C%230000FF%2C%239B00FF?&style=for-the-badge&logoColor=white" />
