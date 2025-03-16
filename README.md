@@ -30,7 +30,7 @@ With a passion for cybersecurity developed through diverse educational paths and
   </a>
 <div>
 <a href="https://www.credly.com/earner/earned/badge/32eb1caf-737b-4a00-b7f0-2788dfd58b21">
-  <img src="https://img.shields.io/badge/-BTL1-0000FF?&style=for-the-badge&logo=blue-team-level-1&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BTL1-0057B7?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" />
 </a>
 <div>
 <a href="https://cpe.isc2.org/digitalcert">
@@ -46,7 +46,6 @@ With a passion for cybersecurity developed through diverse educational paths and
 </a>
 <div>
 <img src="https://img.shields.io/badge/Qualys%20VMDR-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-
 </a>
 </div>
 
