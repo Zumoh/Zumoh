@@ -24,15 +24,12 @@ With a passion for cybersecurity developed through diverse educational paths and
 <a href="https://www.credly.com/earner/earned/badge/5fb11fa8-e62d-496a-998d-9d4470e22a58">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<div>
   <a href="https://www.credly.com/earner/earned/badge/38575b15-17f1-4317-8725-8fd707588677">
     <img src="https://img.shields.io/badge/-SAL1-blue?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   </a>
-<div>
 <a href="https://www.credly.com/earner/earned/badge/32eb1caf-737b-4a00-b7f0-2788dfd58b21">
   <img src="https://img.shields.io/badge/-BTL1-0057B7?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" />
 </a>
-<div>
 <a href="https://www.credly.com/earner/earned/badge/167aed28-6f90-4754-b163-66e383bf3f5c">
   <img src="https://img.shields.io/badge/ISC2%20CC-%23FF0000%2C%23FF7F00%2C%23FFFF00%2C%2300FF00%2C%2300FFFF%2C%230000FF%2C%239B00FF?&style=for-the-badge&logoColor=white" />
 </a>
@@ -40,11 +37,9 @@ With a passion for cybersecurity developed through diverse educational paths and
 <a href="https://www.credly.com/badges/dc1297a0-c5b0-47ed-802f-657a29053923/linked_in_profile">
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-%23FF0000%2C%23FF7F00%2C%23FFFF00%2C%2300FF00%2C%2300FFFF%2C%230000FF%2C%239B00FF?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
-<div>
 <a href="https://app.letsdefend.io//certificate/show/e8112634-1989-435c-9190-d9a57eee2d55">
   <img src="https://img.shields.io/badge/LetsDefend%20SOC%20Analyst-007BFF?&style=for-the-badge&logo=LetsDefend&logoColor=white" />
 </a>
-<div>
 <img src="https://img.shields.io/badge/Qualys%20VMDR-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </a>
 </div>
