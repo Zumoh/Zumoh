@@ -33,7 +33,7 @@ With a passion for cybersecurity developed through diverse educational paths and
   <img src="https://img.shields.io/badge/-BTL1-0057B7?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" />
 </a>
 <div>
-<a href="https://cpe.isc2.org/digitalcert">
+<a href="https://www.credly.com/earner/earned/badge/167aed28-6f90-4754-b163-66e383bf3f5c">
   <img src="https://img.shields.io/badge/ISC2%20CC-%23FF0000%2C%23FF7F00%2C%23FFFF00%2C%2300FF00%2C%2300FFFF%2C%230000FF%2C%239B00FF?&style=for-the-badge&logoColor=white" />
 </a>
 <div>
