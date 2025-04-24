@@ -21,6 +21,12 @@ With a passion for cybersecurity developed through diverse educational paths and
 <h2> 📄 Certifications</h2>
 
 <div>
+  <a href="https://www.credly.com/badges/72a72e97-95e2-4a42-aa71-19d6e65e99ff/public_url">
+    <img src="https://img.shields.io/badge/-CSAP-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/1e39f844-63c3-4a45-a73c-0736f3176c5f/public_url">
+    <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
 <a href="https://www.credly.com/earner/earned/badge/5fb11fa8-e62d-496a-998d-9d4470e22a58">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
