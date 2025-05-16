@@ -65,6 +65,8 @@ With a passion for cybersecurity developed through diverse educational paths and
 - <b>Malware-Based Attack</b>  
   - <a href="https://github.com/Zumoh/Malicious_File-Script_Download/tree/main">Malicious File/Script Download Attempt</a>
 
+  - <a href="https://github.com/Zumoh/Malicious_File-Script_Download/tree/main">LetsDefend SOC104 EventID:36 - Malware Detected </a>
+
 - <b>Endpoint Forensics</b>
   - <a href="https://github.com/Zumoh/Memory_Dump_Analysis/tree/main">Memory Analysis</a>
 
