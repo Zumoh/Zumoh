@@ -9,7 +9,7 @@
 </div>
 
 ##
-I'm a dedicated cybersecurity specialist committed to safeguarding digital landscapes. My journey is driven by a relentless pursuit of knowledge and excellence. Through diverse educational paths and hands-on experiences, I've built a robust skill set spanning fundamental security principles to advanced threat detection and response.
+I'm a dedicated cybersecurity specialist committed to safeguarding digital landscapes. My journey is driven by a relentless pursuit of knowledge and excellence. Through diverse educational paths and hands-on experiences, I've built a robust skill set spanning fundamental security principles to threat detection and response.
 
 I continually hone my skills through practical projects, real-world simulations, and staying current with industry trends. This commitment ensures I'm always ready to tackle new challenges and emerging threats in the ever-evolving field of cybersecurity.
 
