@@ -15,7 +15,7 @@ I continually hone my skills through practical projects, real-world simulations,
 
 ## Objective
 
-With a passion for cybersecurity developed through diverse educational paths and hands-on experiences, my aim is to showcase practical projects that highlight my robust skills in threat detection and response. My journey has led me to seek a transition into the cybersecurity field, specifically targeting a role in a Security Operations Domain.
+With a passion for cybersecurity developed through diverse educational paths and hands-on experiences, my aim is to showcase practical projects that highlight my robust skills in threat detection and response. My journey led me to seek a transition into the cybersecurity field, specifically targeting a role in a Security Operations Domain.
 
 
 <h2> 📄 Certifications</h2>
