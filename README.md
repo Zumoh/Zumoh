@@ -75,6 +75,7 @@ With a passion for cybersecurity developed through diverse educational paths and
 ### 🛜 Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vectra-1679A7?&style=for-the-badge&logo=Vectra&logoColor=white" />
 </div>
 
 ### 👁️💻 SIEM
